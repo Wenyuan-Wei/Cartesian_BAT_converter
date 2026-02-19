@@ -1,4 +1,4 @@
-#include "geometry/pdb_reader.hpp"
+#include "io/pdb_reader.hpp"
 #include <fstream>
 #include <stdexcept>
 #include <unordered_set>

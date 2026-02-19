@@ -1,5 +1,5 @@
 #include "vec3_ops.hpp"
-#include "geometry/vec3.hpp"
+#include "cartesian/vec3.hpp"
 
 namespace geometry::vec3_ops {
 

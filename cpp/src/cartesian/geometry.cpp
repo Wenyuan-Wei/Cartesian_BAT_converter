@@ -1,4 +1,4 @@
-#include "geometry/vec3.hpp"
+#include "cartesian/vec3.hpp"
 #include "vec3_ops.hpp"
 #include <cmath>
 #include <algorithm>

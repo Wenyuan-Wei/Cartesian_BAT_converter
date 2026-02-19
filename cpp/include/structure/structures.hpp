@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 #include <vector>
-#include "geometry/vec3.hpp"  // for geometry::Vec3
+#include "cartesian/vec3.hpp"  // for geometry::Vec3
 
 namespace geometry {
 

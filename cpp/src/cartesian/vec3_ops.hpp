@@ -1,5 +1,5 @@
 #pragma once
-#include "geometry/vec3.hpp"
+#include "cartesian/vec3.hpp"
 #include <cmath>
 
 namespace geometry::vec3_ops {

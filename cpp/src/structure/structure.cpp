@@ -1,4 +1,4 @@
-#include "geometry/structure.hpp"
+#include "structure/structures.hpp"
 
 namespace geometry {
     Structure Structure::select_chain(char chain) const {
