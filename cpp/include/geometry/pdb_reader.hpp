@@ -5,7 +5,7 @@
 namespace geometry {
 
 struct PDBReader {
-    static Structure read(const std::string& filename);
+    static Structure read(const std::string& filename, char chain = '\0');
 };
 
 } // namespace geometry
