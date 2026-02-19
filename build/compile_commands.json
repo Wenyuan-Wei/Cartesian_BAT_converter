@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\include\" -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\src\\cartesian\" /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\cbc.dir\\src\\cartesian\\vec3_ops.cpp.obj /FdCMakeFiles\\cbc.dir\\cbc.pdb /FS -c \"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\src\\cartesian\\vec3_ops.cpp\"",
+  "file": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/cpp/src/cartesian/vec3_ops.cpp",
+  "output": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/cbc.dir/src/cartesian/vec3_ops.cpp.obj"
+},
+{
+  "directory": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\include\" -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\src\\cartesian\" /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\cbc.dir\\src\\cartesian\\geometry.cpp.obj /FdCMakeFiles\\cbc.dir\\cbc.pdb /FS -c \"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\src\\cartesian\\geometry.cpp\"",
+  "file": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/cpp/src/cartesian/geometry.cpp",
+  "output": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/cbc.dir/src/cartesian/geometry.cpp.obj"
+},
+{
+  "directory": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\include\" -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\src\\cartesian\" /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\cbc.dir\\src\\structure\\structure.cpp.obj /FdCMakeFiles\\cbc.dir\\cbc.pdb /FS -c \"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\src\\structure\\structure.cpp\"",
+  "file": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/cpp/src/structure/structure.cpp",
+  "output": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/cbc.dir/src/structure/structure.cpp.obj"
+},
+{
+  "directory": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\include\" -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\src\\cartesian\" /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\cbc.dir\\src\\io\\pdb_reader.cpp.obj /FdCMakeFiles\\cbc.dir\\cbc.pdb /FS -c \"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\src\\io\\pdb_reader.cpp\"",
+  "file": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/cpp/src/io/pdb_reader.cpp",
+  "output": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/cbc.dir/src/io/pdb_reader.cpp.obj"
+},
+{
+  "directory": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build",
+  "command": "C:\\PROGRA~1\\MICROS~4\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -I\"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\include\" /DWIN32 /D_WINDOWS /GR /EHsc /Zi /Ob0 /Od /RTC1 -std:c++17 -MDd /FoCMakeFiles\\test.dir\\test.cpp.obj /FdCMakeFiles\\test.dir\\ /FS -c \"C:\\Users\\wwei\\OneDrive - City of Hope National Medical Center\\Desktop\\Lab data\\Git_version_control\\Cartesian_BAT_converter\\cpp\\test.cpp\"",
+  "file": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/cpp/test.cpp",
+  "output": "C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/test.dir/test.cpp.obj"
+}
+]

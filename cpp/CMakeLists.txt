@@ -16,5 +16,5 @@ target_include_directories(cbc
   PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/src/cartesian
 )
 
-#add_executable(test test.cpp)
-#target_link_libraries(test PRIVATE cbc)
+add_executable(test test.cpp)
+target_link_libraries(test PRIVATE cbc)

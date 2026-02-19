@@ -1,0 +1,4 @@
+C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/cbc.dir
+C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/test.dir
+C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/edit_cache.dir
+C:/Users/wwei/OneDrive - City of Hope National Medical Center/Desktop/Lab data/Git_version_control/Cartesian_BAT_converter/build/CMakeFiles/rebuild_cache.dir
