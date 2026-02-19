@@ -4,9 +4,11 @@ project(cbc LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_library(cbc
+add_library(cbc STATIC
     core/vec3_ops.cpp
     core/geometry.cpp
+    core/structure.cpp
+    src/pdb_reader.cpp
 )
 
 target_include_directories(cbc
