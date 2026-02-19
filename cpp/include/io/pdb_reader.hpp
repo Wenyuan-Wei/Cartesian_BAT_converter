@@ -1,6 +1,6 @@
 #pragma once
 #include <string>
-#include "structure/structures.hpp"
+#include "structure/structure.hpp"
 
 namespace geometry {
 
