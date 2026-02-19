@@ -1,1 +1,12 @@
+# Visual Studio settings
 .vscode
+# Python artifacts 
+__pycache__/
+# CPP build artifacts
+cpp/build/
+# Compiled object files 
+*.o
+*.obj
+*.so
+*.dll
+*.exe
