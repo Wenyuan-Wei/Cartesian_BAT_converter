@@ -17,6 +17,8 @@ struct Atom {
 
 struct Structure {
     std::vector<Atom> atoms;
+
+    Structure select_chain(char chain) const;
 };
 
 } // namespace geometry
