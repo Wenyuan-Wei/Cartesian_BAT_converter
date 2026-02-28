@@ -3,6 +3,7 @@
 # Python artifacts 
 __pycache__/
 # CPP build artifacts
+build/
 cpp/build/
 # Compiled object files 
 *.o

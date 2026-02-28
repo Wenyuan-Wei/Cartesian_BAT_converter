@@ -10,6 +10,8 @@ add_library(cbc STATIC
     src/structure/structure.cpp
     src/structure/bond_inference.cpp
     src/structure/structure_graph.cpp
+    src/structure/bfs_tree.cpp
+    src/structure/protein_root.cpp
     src/io/pdb_reader.cpp
 )
 
@@ -23,3 +25,9 @@ target_link_libraries(test PRIVATE cbc)
 
 add_executable(test_bonds test_bonds.cpp)
 target_link_libraries(test_bonds PRIVATE cbc)
+
+add_executable(test_bfs_tree test_bfs_tree.cpp)
+target_link_libraries(test_bfs_tree PRIVATE cbc)
+
+add_executable(test_backbone_frame test_backbone_frame.cpp)
+target_link_libraries(test_backbone_frame PRIVATE cbc)
