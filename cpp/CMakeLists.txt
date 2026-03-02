@@ -15,6 +15,7 @@ add_library(cbc STATIC
     src/io/pdb_reader.cpp
     src/bat/bat_coords.cpp
     src/bat/bat_reconstruct.cpp
+    src/io/bat_writer.cpp
 )
 
 target_include_directories(cbc
@@ -39,3 +40,6 @@ target_link_libraries(test_bat_coords PRIVATE cbc)
 
 add_executable(test_bat_roundtrip test_bat_roundtrip.cpp)
 target_link_libraries(test_bat_roundtrip PRIVATE cbc)
+
+add_executable(test_bat_writer test_bat_writer.cpp)
+target_link_libraries(test_bat_writer PRIVATE cbc)
