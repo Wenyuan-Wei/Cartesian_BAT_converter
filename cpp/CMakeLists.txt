@@ -13,6 +13,7 @@ add_library(cbc STATIC
     src/structure/bfs_tree.cpp
     src/structure/protein_root.cpp
     src/io/pdb_reader.cpp
+    src/bat/bat_coords.cpp
 )
 
 target_include_directories(cbc
@@ -31,3 +32,6 @@ target_link_libraries(test_bfs_tree PRIVATE cbc)
 
 add_executable(test_backbone_frame test_backbone_frame.cpp)
 target_link_libraries(test_backbone_frame PRIVATE cbc)
+
+add_executable(test_bat_coords test_bat_coords.cpp)
+target_link_libraries(test_bat_coords PRIVATE cbc)
