@@ -14,6 +14,7 @@ add_library(cbc STATIC
     src/structure/protein_root.cpp
     src/io/pdb_reader.cpp
     src/bat/bat_coords.cpp
+    src/bat/bat_reconstruct.cpp
 )
 
 target_include_directories(cbc
@@ -35,3 +36,6 @@ target_link_libraries(test_backbone_frame PRIVATE cbc)
 
 add_executable(test_bat_coords test_bat_coords.cpp)
 target_link_libraries(test_bat_coords PRIVATE cbc)
+
+add_executable(test_bat_roundtrip test_bat_roundtrip.cpp)
+target_link_libraries(test_bat_roundtrip PRIVATE cbc)
