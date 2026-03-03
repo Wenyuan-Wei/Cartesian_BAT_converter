@@ -43,3 +43,6 @@ target_link_libraries(test_bat_roundtrip PRIVATE cbc)
 
 add_executable(test_bat_writer test_bat_writer.cpp)
 target_link_libraries(test_bat_writer PRIVATE cbc)
+
+add_executable(bat_convert main_bat.cpp)
+target_link_libraries(bat_convert PRIVATE cbc)
