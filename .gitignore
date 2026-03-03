@@ -7,9 +7,11 @@ __pycache__/
 # CPP build artifacts
 build/
 cpp/build/
-# Compiled object files 
+# Compiled object files
 *.o
 *.obj
 *.so
 *.dll
 *.exe
+# Integration test working directory (downloaded PDBs + generated .bat files)
+test_pdbs/
